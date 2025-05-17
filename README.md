@@ -80,10 +80,10 @@
 
 # Pre-trained ResNet Models
 
-Download pre-trained models: [ResNet-50](https://pan.baidu.com/s/1B6wmULpEGH31c7EMQHlyQg?pwd=va88)[va88] and [DINOv2-base](https://drive.google.com/file/d/1pYBYPUM8JFQQAJD5kkIVutVGy4DcFgqw/view?usp=drive_link)
+Download pre-trained models: [ResNet-50](https://pan.baidu.com/s/1B6wmULpEGH31c7EMQHlyQg?pwd=va88)[va88] and [DINOv2-base](https://pan.baidu.com/s/1YDS2kF8RF7KM8YX6EUZCnw?pwd=x549)[x549]
 
-Download our trained models: [Chest X-ray](https://drive.google.com/file/d/1pmGwI39Rqxvi2qaxJzp3Hxcetxz2PUKE/view?usp=drive_link), [Deepglobe](https://drive.google.com/file/d/1jZt3kFv996-U-I3KD4K0qEvX3S6qM2My/view?usp=drive_link), 
-[FSS-1000](https://drive.google.com/file/d/1MJJSQoSUNJ4r4OWoUCTgvUj5MGFfORu2/view?usp=drive_link) and [ISIC2018](https://drive.google.com/file/d/1yS-W7E78hJLwQXiP43Ot4kFogeei1qHM/view?usp=drive_link).
+Download our trained models: [Chest X-ray](https://pan.baidu.com/s/1oAP9cAdZVXyIk-LBZgGbhQ?pwd=qvxy)[qvxy], [Deepglobe](https://pan.baidu.com/s/1wTPA2Jmnp1Rw-3yJDczO-w?pwd=jmyy)[jmyy], 
+[FSS-1000](https://pan.baidu.com/s/1F8BzNh-k9DpVDRnBUZQiVQ?pwd=gi2k)[gi2k] and [ISIC2018](https://pan.baidu.com/s/1XytMXODXF1-s5wlwl3jlOA?pwd=wkst)[wkst].
 
 
 # Test
